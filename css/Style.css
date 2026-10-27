@@ -9,6 +9,8 @@
 }
 
 * {
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 
@@ -19,6 +21,7 @@ html {
 
 body {
     margin: 0;
+    
     background: #fff;
     color: var(--texto);
     font: 16px/1.65 Arial, Helvetica, sans-serif;
@@ -116,7 +119,7 @@ summary:focus-visible {
 
 .cabecalho {
     background: white;
-    border-top: 6px solid var(--laranja);
+    
 }
 
 .menu {
@@ -620,7 +623,7 @@ details[open] p {
 
 footer {
     background: #eff3f6;
-    border-bottom: 8px solid var(--laranja);
+   
 }
 
 .rodape {

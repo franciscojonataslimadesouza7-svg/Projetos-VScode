@@ -19,9 +19,7 @@ html {
     scroll-padding-top: 25px;
 }
 
-body {
-    margin: 0;
-    
+body { 
     background: #fff;
     color: var(--texto);
     font: 16px/1.65 Arial, Helvetica, sans-serif;
